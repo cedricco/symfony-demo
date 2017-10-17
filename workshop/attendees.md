@@ -7,3 +7,4 @@ The attendees (GitHub usernames):
 - Vincent
 - WilliamROpert
 - Beretheub
+- AlexisBernatets
