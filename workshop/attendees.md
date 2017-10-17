@@ -8,3 +8,4 @@ The attendees (GitHub usernames):
 - WilliamROpert
 - Beretheub
 - AlexisBernatets
+- clemq
