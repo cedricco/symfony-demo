@@ -4,3 +4,4 @@ The attendees (GitHub usernames):
 - Mathieu4141
 - ThomasDelamarre
 - AlexisBernatets
+- Vincent
