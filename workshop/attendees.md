@@ -5,3 +5,6 @@ The attendees (GitHub usernames):
 - ThomasDelamarre
 - AlexisBernatets
 - Vincent
+- WilliamROpert
+
+
